@@ -1,1 +1,0 @@
-git remote set-url origin https://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@github.com/1939278420/smog.git
